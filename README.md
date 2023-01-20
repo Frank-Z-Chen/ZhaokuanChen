@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhaokuanChen, a master computer science student at University of Illinois Urbana Champaign.
-- 👀 I’m interested in software development.
+- 👀 I’m interested in software engineering.
 - 📫 How to reach me: email: zc56@illinois.edu
 
 <!---
